@@ -1,0 +1,43 @@
+{
+    "casosClinicos": [
+        {
+            "id": 1,
+            "titulo": "Paciente do CAPS AD",
+            "descricao": "Paciente do sexo masculino, encaminhado ao CAPS devido ao uso de cocaína. Refere consumo da substância em ambiente domiciliar e em festas, principalmente em situações de estresse. Tabagista, fuma aproximadamente 10 cigarros/dia, com início do uso aos 20 anos. Relata uso prévio de clonazepam e acompanhamento psicológico há cerca de 15 anos. É diabético e hipertenso, em uso de varfarina (necessita confirmação da medicação e dose) e losartana 50 mg, 1 vez ao dia. Separado, refere boa relação com a ex-esposa e informa que o uso de drogas não motivou o término da relação. Possui três filhos, contribui financeiramente com uma das filhas e reside com a mãe e o padrasto. Nega influência da ausência de vínculo com o pai no uso de substâncias. É formado em Direito, atua como corretor de imóveis, possui renda mensal aproximada de R$ 5.000,00 e não possui cobertura pela Estratégia Saúde da Família (ESF).",
+            "nivel": "Vermelho (Alta Complexidade)"
+        }
+    ],
+    "profissionais": [
+        {
+            "nome": "Enfermeiro",
+            "funcao": "Atua no acolhimento, avaliação clínica e de enfermagem, acompanhamento do uso de substâncias, monitoramento das comorbidades (diabetes e hipertensão), orientação sobre autocuidado, adesão ao tratamento e elaboração do Projeto Terapêutico Singular (PTS)."
+        },
+        {
+            "nome": "Médico (Psiquiatra/Clínico)",
+            "funcao": "Responsável pela avaliação diagnóstica, manejo da dependência química, investigação de possíveis transtornos mentais associados, avaliação da necessidade de tratamento medicamentoso e acompanhamento das condições clínicas em conjunto com a Atenção Primária."
+        },
+        {
+            "nome": "Psicólogo",
+            "funcao": "Atua para trabalhar a dependência química, identificar fatores desencadeantes (como o estresse), desenvolver estratégias de prevenção de recaídas, fortalecer a motivação para mudança e promover o manejo emocional."
+        },
+        {
+            "nome": "Assistente Social",
+            "funcao": "Realiza a avaliação da rede de apoio familiar e social, orientação sobre direitos, articulação com a rede de saúde (incluindo inserção na Estratégia Saúde da Família) e fortalecimento dos recursos sociais disponíveis."
+        },
+        {
+            "nome": "Terapeuta Ocupacional",
+            "funcao": "Favorece a reorganização da rotina, fortalece atividades significativas, desenvolve estratégias para redução do uso de drogas e promove a reinserção social e melhoria da qualidade de vida."
+        },
+        {
+            "nome": "Farmacêutico",
+            "funcao": "Oferece orientação quanto ao uso correto das medicações de uso contínuo devido ao risco de interações medicamentosas e complicações, além de complementar a adesão ao tratamento."
+        },
+        {
+            "nome": "Educador Físico",
+            "funcao": "Promove práticas corporais, atividades físicas e expressivas para auxiliar no manejo do estresse, melhora da autoestima e socialização, além de atuar diretamente no controle das comorbidades do paciente (diabetes e hipertensão) através do estímulo a hábitos saudáveis."
+        }
+    ],
+    "desafios": [
+        "Tem problemas com a mãe e a culpa pelo uso da droga."
+    ]
+}
